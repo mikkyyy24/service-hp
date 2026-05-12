@@ -1,2 +1,2 @@
 Docker compose up -d
-Demo: owner@servicehp.com / owner123
+Demo: owner@servicehp.com
